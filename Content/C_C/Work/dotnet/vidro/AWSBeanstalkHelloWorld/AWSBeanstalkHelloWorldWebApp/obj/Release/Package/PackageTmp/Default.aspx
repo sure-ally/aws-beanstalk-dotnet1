@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
 	<section class="congratulations">
-		<h1>Congratulations Surendra!</h1>
+		<h1>Congratulations 1150!</h1>
 		<p>Your AWS Elastic Beanstalk <em>ASP.NET</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
 	</section>
   
